@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FileList>
+    <file name="sunset.jpg">
+        <peers>
+            <peer id="Peer3">
+                <id>Peer3</id>
+                <ip>Reddys-PC/192.168.1.244:83</ip>
+                <port>9001</port>
+                <pieceLength>4</pieceLength>
+            </peer>
+        </peers>
+    </file>
+</FileList>
